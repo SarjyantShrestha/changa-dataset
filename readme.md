@@ -1,4 +1,3 @@
-
-| SN  | Kite Name      | Newari        |Picture                                                                                   |
+| SN  | Kite Name      | Newari        | Picture                                                                                   |
 |-----|----------------|---------------|-------------------------------------------------------------------------------------------|
-| 1   | Haakusara      |  हाकु सारा       | ![image1](https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/refs/heads/main/kitesImg/black.jpg) |
+| 1   | Haakusara      | हाकु सारा     | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/black.jpg" alt="Haakusara" width="100"/> |
