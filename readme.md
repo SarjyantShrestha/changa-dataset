@@ -10,6 +10,7 @@
 | 8   | Eka Dahri        | एकादाह्री       | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/EkaDahri.jpg" alt="Eka Dahri" width="200"/> |
 | 9   | Plastic-wal     | प्लास्टिकवाल      | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/Plasticwaal.png" alt="Plastic-wal" width="200"/> |
 | 10  | Char Buttey     | चार बुट्टे       | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/CharButtey.png" alt="Char Buttey" width="200"/> |
+| 11  | Jyasligan     | ज्यास्लीगन     | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/Jyasligan.png" alt="Jyasligan" width="200"/> |
 
 ## Credits
 
