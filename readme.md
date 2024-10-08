@@ -8,7 +8,7 @@
 | 6   | Chandra Surya   | चन्द्र सूर्य       | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/ChandraSurya.png" alt="ChandraSurya" width="200"/> |
 | 7   | Tu-yu Saara     | तु-यु सारा      | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/TYS.jpg" alt="Tu-yu Saara" width="200"/> |
 | 8   | Dui Dharke      | दुई धर्के        | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/DuiDharke.jpg" alt="Dui Dharke" width="200"/> |
-| 9   | Plastic-wal     | प्लास्टिक-वा    | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/Plasticwal.png" alt="Plastic-wal" width="200"/> |
+| 9   | Plastic-wal     | प्लास्टिकवाल    | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/Plasticwaal.png" alt="Plastic-wal" width="200"/> |
 
 ## Credits
 Kites nepal (Instagram): [kites.nepal](https://www.instagram.com/kites.nepal/)
