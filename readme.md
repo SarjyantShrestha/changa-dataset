@@ -14,7 +14,6 @@
 | 10  | Char Buttey     | चार बुट्टे       | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/CharButtey.png" alt="Char Buttey" width="200"/> |
 | 11  | Jyasligan     | ज्यास्लीगन     | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/Jyasligan.jpg" alt="Jyasligan" width="200"/> |
 
------------------------------------------
 ## Work in Progress
 
 This is a work in progress.
