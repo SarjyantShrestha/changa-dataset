@@ -1,9 +1,9 @@
 # KITES
 
-| SN  | Name            | Newari        | Picture                                                                                   |
+| SN  | Name            | Nepal Bhasa        | Picture                                                                                   |
 |-----|---------------- |---------------|-------------------------------------------------------------------------------------------|
 | 1   | Haaku sara      | हाकु सारा      | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/black.jpg" alt="Haakusara" width="200"/> |
-| 2   | Dahriwal       | डाह्रीवाल        | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/Dahriwal.jpg" alt="Dahriwal" width="200"/> |
+| 2   | Dahriwal       | दाह्रीवाल        | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/Dahriwal.jpg" alt="Dahriwal" width="200"/> |
 | 3   | Babatya          | बाबात्या      | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/Babatya.jpg" alt="Babatya" width="200"/> |
 | 4   | Laltin          | लालटिन        | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/Laltin.jpg" alt="Laltin" width="200"/> |
 | 5   | Fhatwal          | फाँटवाल         | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/Fhatwal.jpg" alt="Fhatwal" width="200"/> |
@@ -13,7 +13,8 @@
 | 9   | Plastic-wal     | प्लास्टिकवाल      | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/Plasticwaal.png" alt="Plastic-wal" width="200"/> |
 | 10  | Char Buttey     | चार बुट्टे       | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/CharButtey.png" alt="Char Buttey" width="200"/> |
 | 11  | Jyasligan     | ज्यास्लीगन     | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/Jyasligan.jpg" alt="Jyasligan" width="200"/> |
-| 12  | Wochu sara     | वंगु      | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/blue.jpg" alt="Jyasligan" width="200"/> |
+| 12  | Mikhawal     | मिखावल     | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/Mikhawal.jpg" alt="Jyasligan" width="200"/> |
+| 13  | Wochu sara     | वंगु      | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/blue.jpg" alt="Jyasligan" width="200"/> |
 
 ## Work in Progress
 
