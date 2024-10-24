@@ -13,8 +13,9 @@
 | 9   | Plastic-wal     | प्लास्टिकवाल      | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/Plasticwaal.png" alt="Plastic-wal" width="200"/> |
 | 10  | Char Buttey     | चार बुट्टे       | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/CharButtey.png" alt="Char Buttey" width="200"/> |
 | 11  | Jyasligan     | ज्यास्लीगन     | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/Jyasligan.jpg" alt="Jyasligan" width="200"/> |
-| 12  | Mikhawal     | मिखावल     | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/Mikhawal.jpg" alt="Jyasligan" width="200"/> |
-| 13  | Wochu sara     | वंगु      | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/blue.jpg" alt="Jyasligan" width="200"/> |
+| 12  | Mikhawal     | मिखावल     | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/Mikhawal.jpg" alt="Mikhawal" width="200"/> |
+| 13  | Wochu sara     | वचु       | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/blue.jpg" alt="Wochu sara" width="200"/> |
+| 14  | Wongu sara     | वंगु       | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/green.jpg" alt="Wongu sara" width="200"/> |
 
 ## Work in Progress
 
