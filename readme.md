@@ -16,7 +16,7 @@
 | 12  | Mikhawal     | मिखावल     | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/Mikhawal.jpg" alt="Mikhawal" width="300"/> |
 | 13  | Wochu sara     | वचु       | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/blue.jpg" alt="Wochu sara" width="300"/> |
 | 14  | Wongu sara     | वंगु       | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/green.jpg" alt="Wongu sara" width="300"/> |
-| 15  | Hyangu sara     | ह्यांगु        | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/red.jpg" alt="Hyangu Sara" width="300"/> |
+| 15  | Hyangu sara     | ह्यांगु        | <img src="https://raw.githubusercontent.com/SarjyantShrestha/changa-dataset/main/kitesImg/redd.jpg" alt="Hyangu Sara" width="300"/> |
 
 ## Work in Progress
 
